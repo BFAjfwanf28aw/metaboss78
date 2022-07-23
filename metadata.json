@@ -1,0 +1,56 @@
+{
+  "name": "Degen Degen #496",
+  "symbol": "DEGENS",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeibb5wblmpgjeqhppabwp47svwpwehyovejazw74yq3ktaab3vlkka.ipfs.dweb.link/496.png?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Dark Skyline"
+    },
+    {
+      "trait_type": "Back",
+      "value": "No Wings"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Molten"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "Fusion Face"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Carrot Top"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Samurai"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
